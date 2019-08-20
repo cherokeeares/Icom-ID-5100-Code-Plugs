@@ -16,7 +16,7 @@ As a reminder:
 -Set Home Channel to VHAM12
 <BR />
 -My Station, then Message Section. Consider turning on TX Message with the message you would like to auto send when Keying up DSTAR Repeater
-<BR /><BR />
+<BR /
 -When Importing personal/custom Repeater Lists, import them into Repeater Bank 10+
 <BR />
 -TAC1 is VHAM12
